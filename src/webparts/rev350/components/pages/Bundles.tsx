@@ -174,6 +174,7 @@ const Bundles: React.FC = () => {
         showInactiveLabel="Show Inactive Bundles"
         onShowInactive={() => setShowInactive(prev => !prev)}
         showInactive={showInactive}
+        exportFileName="Bundles"
       />
 
       {isPanelOpen && (

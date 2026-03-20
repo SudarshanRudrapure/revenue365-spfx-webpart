@@ -121,6 +121,7 @@ const Products: React.FC = () => {
         showInactiveLabel="Show Inactive Products"
         onShowInactive={() => setShowInactive(prev => !prev)}
         showInactive={showInactive}
+        exportFileName="Products"
       />
 
       <AddPanel

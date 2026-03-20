@@ -128,6 +128,7 @@ const Subscriptions: React.FC = () => {
         showInactiveLabel="Show Inactive Subscriptions"
         onShowInactive={() => setShowInactive(prev => !prev)}
         showInactive={showInactive}
+        exportFileName="Subscriptions"   
       />
 
       <AddPanel

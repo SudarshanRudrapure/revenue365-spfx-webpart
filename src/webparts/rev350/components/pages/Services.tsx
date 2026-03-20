@@ -124,6 +124,7 @@ const Services: React.FC = () => {
         showInactiveLabel="Show Inactive Services"
         onShowInactive={() => setShowInactive(prev => !prev)}
         showInactive={showInactive}
+        exportFileName="Services"
       />
 
       <AddPanel
