@@ -5,7 +5,7 @@ import '@pnp/sp/webs';
 import '@pnp/sp/lists';
 import '@pnp/sp/fields';
 
-export const LIST_NAME = 'Revenue 365';
+export const LIST_NAME = 'Revenue333';
 
 // Lock — prevents double execution in React StrictMode dev
 let isSettingUp = false;

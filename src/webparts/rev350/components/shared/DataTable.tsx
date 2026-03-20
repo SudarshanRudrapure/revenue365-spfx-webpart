@@ -122,7 +122,7 @@ const DataTable: React.FC<DataTableProps> = ({
           {addButtonText}
         </button>
 
-        {/* BUG FIX: Show Inactive button now calls onShowInactive and reflects state */}
+        {/* BUG FIX: Show Inactive button now calls onShowInactive and reflects state
         {showInactiveLabel && (
           <button
             style={{
@@ -136,7 +136,7 @@ const DataTable: React.FC<DataTableProps> = ({
           >
             👁️ {showInactiveLabel}
           </button>
-        )}
+        )} */}
 
         <div className={styles.actionBarRight}>
           <SearchBox
