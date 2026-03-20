@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "rev-365-web-part-client-side-solution",
+    "id": "ffcbfda8-1953-4811-b801-1f02b75f65cd",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.22.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "Rev-365 WebPart description"
+      },
+      "longDescription": {
+        "default": "Rev-365 WebPart description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "rev-365-web-part Feature",
+        "description": "The feature that activates elements of the rev-365-web-part solution.",
+        "id": "fe86c8b6-26b5-4d77-af89-9e3b764ededd",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/rev-365-web-part.sppkg"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "useGulp": false,
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.22.1",
+    "sdksVersions": {},
+    "version": "1.22.2",
+    "libraryName": "rev-365-web-part",
+    "libraryId": "ffcbfda8-1953-4811-b801-1f02b75f65cd",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Rev-365 WebPart",
+    "solutionShortDescription": "Rev-365 WebPart description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
