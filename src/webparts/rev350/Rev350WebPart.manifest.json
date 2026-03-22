@@ -18,11 +18,11 @@
   "preconfiguredEntries": [{
     "groupId": "5c03119e-3074-46fd-976b-c60198311f70", // Advanced
     "group": { "default": "Advanced" },
-    "title": { "default": "Rev-350" },
-    "description": { "default": "Rev-350 description" },
+    "title": { "default": "Rev333" },
+    "description": { "default": "Rev333 description" },
     "officeFabricIconFontName": "Page",
     "properties": {
-      "description": "Rev-350"
+      "description": "Rev333"
     }
   }]
 }
